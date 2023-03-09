@@ -1,0 +1,93 @@
+#main {
+    min-height: 800px;
+    margin: auto;
+    padding: 5px;
+    width: 60%;
+}
+
+#background {
+    background-image: url('../Image/LibraryBackground.jpg');
+    color: ghostwhite;
+    font-family:'Times New Roman', Times, serif;
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#header {
+    background-color: rgb(126, 157, 170);
+    color: black;
+    padding: 15px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    font-style: italic;
+}
+
+footer {
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 15px;
+}
+
+input {
+    width: 25vw;
+    display: block;
+    border: 1px rgb(78, 78, 78) solid;
+    margin-bottom: 4vh;
+}
+
+.rad {
+    width: fit-content;
+    vertical-align: left;
+    display: inline;
+}
+
+form div {
+    vertical-align: center;
+    width: 70%;
+    margin: 1vw;
+}
+
+#box {
+    width: 50%;
+    height: fit-content;
+    margin: auto;
+    background-color: rgba(173, 173, 173, 0.644);
+    padding: 3vw;
+} 
+
+#result {
+    width: fit-content;
+    margin: auto;
+    padding: 2vw;
+}
+
+.button {
+    width: fit-content;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table td {
+    padding: 10px 12px;
+    text-align: center;
+}
+
+table thead tr {
+    background-color: #202020;
+    color: ghostwhite;
+    text-align: center;
+}

@@ -1,6 +1,6 @@
 This repository contains my final Continuous Assessment project for the Web Development 2 module, completed in the second year of my Computer Science degree at TU Dublin.
 
-## Project Overview
+# Project Overview
 
 I developed a dynamic **Book Reservation Website** that allows users to:
 - **Search** for available library books
